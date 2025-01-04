@@ -1,0 +1,7 @@
+pymupdf
+openai
+pydantic
+instructor
+pandas
+numpy
+python-dotenv
