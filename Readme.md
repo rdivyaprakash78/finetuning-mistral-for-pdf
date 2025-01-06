@@ -1,4 +1,4 @@
-## Fine Tuning Llama 3 for custom PDF
+## Fine Tuning Mistral for custom PDF
 
 For this example, I have taken a really simple PDF of just 10 pages. For simplicity, I'm ignoring all the textual and image based contents and just focusing on the textual content to fine tune the model.
 
